@@ -23,7 +23,7 @@ export const Contact: React.FC = () => {
                 <div>
                   <h3 className="text-heading font-bold mb-1">WhatsApp (Priority)</h3>
                   <p className="text-body text-sm mb-2">Direct line to our Creative Director.</p>
-                  <a href="https://wa.me/1234567890" className="text-gold-500 font-bold text-sm uppercase tracking-wider hover:text-heading transition-colors">Chat Now &rarr;</a>
+                  <a href="https://wa.me/7397577180" className="text-gold-500 font-bold text-sm uppercase tracking-wider hover:text-heading transition-colors">Chat Now &rarr;</a>
                 </div>
               </div>
 
@@ -34,7 +34,7 @@ export const Contact: React.FC = () => {
                 <div>
                   <h3 className="text-heading font-bold mb-1">Email</h3>
                   <p className="text-body text-sm mb-2">For detailed inquiries and RFPs.</p>
-                  <a href="mailto:hello@loki.digital" className="text-gold-500 font-bold text-sm uppercase tracking-wider hover:text-heading transition-colors">hello@loki.digital &rarr;</a>
+                  <a href="lokidigital25@gmail.com" className="text-gold-500 font-bold text-sm uppercase tracking-wider hover:text-heading transition-colors">hello@loki.digital &rarr;</a>
                 </div>
               </div>
 
