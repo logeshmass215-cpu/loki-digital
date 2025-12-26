@@ -64,7 +64,7 @@ export const Work: React.FC = () => {
         
         <div className="mt-24 text-center border-t border-white/5 pt-16">
           <h2 className="text-2xl text-heading font-bold mb-6">Like what you see?</h2>
-          <Button href="https://wa.me/1234567890" external>Get a Free Edit</Button>
+          <Button href="https://wa.me/7397577180" external>Get a Free Edit</Button>
         </div>
       </div>
     </div>

@@ -34,7 +34,9 @@ export const Contact: React.FC = () => {
                 <div>
                   <h3 className="text-heading font-bold mb-1">Email</h3>
                   <p className="text-body text-sm mb-2">For detailed inquiries and RFPs.</p>
-                  <a href="lokidigital25@gmail.com" className="text-gold-500 font-bold text-sm uppercase tracking-wider hover:text-heading transition-colors">hello@loki.digital &rarr;</a>
+                  <a  href="mailto:lokidigital25@gmail.com"  className="text-gold-500 font-bold text-sm uppercase tracking-wider hover:text-heading transition-colors"> lokidigital25@gmail.com &rarr;
+</a>
+
                 </div>
               </div>
 

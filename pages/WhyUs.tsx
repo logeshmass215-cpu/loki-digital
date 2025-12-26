@@ -49,7 +49,7 @@ export const WhyUs: React.FC = () => {
             Send us raw files, and we'll send back a masterpiece.
           </p>
           <div className="relative z-10">
-            <Button href="https://wa.me/1234567890" external>Start with a Free Sample</Button>
+            <Button href="https://wa.me/7397577180" external>Start with a Free Sample</Button>
           </div>
         </div>
       </div>
