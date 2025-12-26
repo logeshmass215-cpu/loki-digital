@@ -153,7 +153,7 @@ export const Home: React.FC = () => {
           Stop settling for average. Get a free sample edit and experience the difference today.
         </p>
         <div className="relative z-10">
-           <Button href="https://wa.me/1234567890" external>Get Your Free Edit Now</Button>
+           <Button href="https://wa.me/7397577180" external>Get Your Free Edit Now</Button>
         </div>
       </section>
     </div>

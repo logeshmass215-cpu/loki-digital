@@ -75,7 +75,7 @@ export const Services: React.FC = () => {
           <div className="mt-16 bg-gold-500/10 border border-gold-500/20 p-8 rounded-lg">
              <h3 className="text-xl font-bold text-heading mb-2">Not sure yet?</h3>
              <p className="text-body mb-6">Test our quality with a free sample edit. No strings attached.</p>
-             <Button href="https://wa.me/1234567890" external>Claim Free Edit</Button>
+             <Button href="https://wa.me/7397577180" external>Claim Free Edit</Button>
           </div>
         </div>
       </div>
